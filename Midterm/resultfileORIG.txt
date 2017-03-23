@@ -1,0 +1,8 @@
+Total Time: 18.248seconds.
+
+Time for Mesh+PPM Image computations: 18.248seconds.
+
+Time for Mesh computations: 15.998seconds.
+
+Time for PPM Image computations: 2.24997seconds.
+

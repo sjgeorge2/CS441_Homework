@@ -1,0 +1,4 @@
+SSE Altered time:
+Took 0.208236 seconds, 25419.4 ns/asteroid
+  closest approach: 8.53346e+009
+0

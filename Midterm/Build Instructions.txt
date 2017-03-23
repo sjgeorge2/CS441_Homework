@@ -1,0 +1,21 @@
+openMP:
+Only need to #include <omp.h> and you're good to go.
+Done on Windows Virtual Studio 2015
+Or if using G++:
+use: g++ .\cs441midtermOpenMP_SamG.cpp -std=c++11 -fopenmp
+-std=c++11 may not be required, it's just an error I ran into
+Once compiled run the executable
+
+Threads
+ONly need to #include <threads> and you're good to go.
+Done on Windows Virtual Studio 2015
+or use: g++ .\cs441midtermThreads_SamG.cpp 
+SSE
+Download and make sure xmmintrin.h file is included in the project
+Make sure that the project has SSE enabled in the properties.
+	Properties
+	  |-> Configuration Properties
+	     |-> C/C++
+		|-> Code Generation
+		|-> Enable Enhanced Instruction set SSE (/arch:SSE)
+Done on Windows Virtual Studio 2015

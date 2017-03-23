@@ -1,0 +1,15 @@
+Unaltered time:
+Took 3.17346 seconds, 387385 ns/asteroid
+  closest approach: 1.34644e+06
+Unaltered time:
+Took 3.12894 seconds, 381951 ns/asteroid
+  closest approach: 1.34644e+06
+Unaltered time:
+Took 3.13604 seconds, 382818 ns/asteroid
+  closest approach: 1.34644e+06
+Unaltered time:
+Took 3.18643 seconds, 388969 ns/asteroid
+  closest approach: 1.34644e+06
+Unaltered time:
+Took 3.10601 seconds, 379152 ns/asteroid
+  closest approach: 1.34644e+06
