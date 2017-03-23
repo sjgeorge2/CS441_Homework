@@ -1,0 +1,15 @@
+SSE Timing
+-- For the code given it was hard to decide where the SIMD instructions 
+would best be used. I wasn't able to find anywhere to put the instructions
+and have it run properly.
+
+OpenMP
+-- This shares very similar times to the <threads> parallelization, only 
+being slightly slower. The reason this would be slower is because there is
+more overhead with OpenMP. It causes the compiler to do a bit more work
+that is our of your control than just using <threads>. 
+It's much simpler to use though.
+
+<threads> 
+-- Gave the fastest times as it has the least overhead. <threads> is a more
+direct way of making your code parallel. 
